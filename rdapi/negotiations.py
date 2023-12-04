@@ -29,7 +29,7 @@ class Negotiations(GetParameters):
         query_str = "?" + semi_final_str
         return query_str
     
-    def list_all(self, ):
+    def list_all(self):
         query = self.make_query()
         headers = {"accept":"application/json"}
         full_url = f"{self.url}{query}"
@@ -64,5 +64,28 @@ class NegotiationParser:
         
     def parse_all_deals(self):
         response = self.negotiation_obj.list_all()
+        deals = response['deals']
+        data = []
+        for deal in deals:
+            in_data = {}
+            in_data['Tipo'] = deal['name']
+            in_data['Valor Mensal'] = deal['amount_montly']
+            in_data['Valor Único'] = deal['amount_unique']
+            in_data['Projeção Anual'] = deal['amount_montly']*12 + deal['amount_unique']
+            in_data['Iniciado em'] = deal['created_at']
+            in_data['Empresa'] = {}
+            in_data['Negociante'] = deal['organization']['user']['name']
+            in_data['Nome da empresa'] = deal['organization']['name']
+            in_data['Segmento'] = deal['organization_segments']['name']
+            in_data['Estágio'] = deal['deal_stage']['name']
+            in_data['Produto negociado'] = deal['deal_products']['name']
+            
+            data.append(in_data)
+            
+        return {data}
+            
+        
+        
+        
         
     
