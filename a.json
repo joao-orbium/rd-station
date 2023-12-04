@@ -1,0 +1,2167 @@
+{
+    "total": 29,
+    "has_more": true,
+    "deals": [
+        {
+            "_id": "6568d861147080000d93abc1",
+            "id": "6568d861147080000d93abc1",
+            "name": "Overview (recuperação)",
+            "amount_montly": 0.0,
+            "amount_unique": 0.0,
+            "amount_total": 0.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": null,
+            "interactions": 0,
+            "markup_last_activities": null,
+            "created_at": "2023-11-30T15:45:53.536-03:00",
+            "updated_at": "2023-11-30T15:45:53.536-03:00",
+            "rating": 1,
+            "markup_created": "1 day",
+            "last_activity_content": null,
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e50791fe92e000de647e8",
+                "id": "654e50791fe92e000de647e8",
+                "name": "BoardAcademy",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840af",
+                        "id": "651c759990b7d2000e7840af",
+                        "name": "Eventos e Entretenimento",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.927-03:00",
+                        "updated_at": "2023-11-14T12:07:09.606-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "65397b70ec399d000dd496a1",
+                "id": "65397b70ec399d000dd496a1",
+                "name": "Recuperação",
+                "nickname": "R",
+                "created_at": "2023-10-25T17:32:48.950-03:00",
+                "updated_at": "2023-10-25T17:34:32.852-03:00"
+            },
+            "contacts": [
+                {
+                    "name": "Paula Lemos",
+                    "title": null,
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "cs01@boardacademy.com.br"
+                        }
+                    ],
+                    "phones": [
+                        {
+                            "phone": "11 95986-9168",
+                            "type": "work"
+                        }
+                    ]
+                }
+            ],
+            "deal_custom_fields": [
+                {
+                    "value": "30/11/2023",
+                    "created_at": null,
+                    "updated_at": null,
+                    "custom_field_id": "6564f20ce68511001a2a0590",
+                    "custom_field": {
+                        "_id": "6564f20ce68511001a2a0590",
+                        "id": "6564f20ce68511001a2a0590",
+                        "for": "deal",
+                        "label": "Início faturamento",
+                        "order": 2,
+                        "allow_new": false,
+                        "required": false,
+                        "type": "date",
+                        "unique": false,
+                        "visible": true,
+                        "created_at": "2023-11-27T16:46:20.087-03:00",
+                        "updated_at": "2023-11-30T15:47:13.804-03:00"
+                    }
+                },
+                {
+                    "value": "30/11/2023",
+                    "created_at": null,
+                    "updated_at": null,
+                    "custom_field_id": "6564f26c4d9bbc000f1b66b7",
+                    "custom_field": {
+                        "_id": "6564f26c4d9bbc000f1b66b7",
+                        "id": "6564f26c4d9bbc000f1b66b7",
+                        "for": "deal",
+                        "label": "Final do contrato",
+                        "order": 3,
+                        "allow_new": false,
+                        "required": false,
+                        "type": "date",
+                        "unique": false,
+                        "visible": true,
+                        "created_at": "2023-11-27T16:47:56.928-03:00",
+                        "updated_at": "2023-11-30T15:47:21.145-03:00"
+                    }
+                }
+            ],
+            "deal_products": []
+        },
+        {
+            "_id": "6564dae27ec367000fd77560",
+            "id": "6564dae27ec367000fd77560",
+            "name": "Renovação anual",
+            "amount_montly": 0.0,
+            "amount_unique": 1077421.5,
+            "amount_total": 1077421.5,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-27T15:27:51.232-03:00",
+            "interactions": 1,
+            "markup_last_activities": "5 days",
+            "created_at": "2023-11-27T15:07:30.783-03:00",
+            "updated_at": "2023-11-27T20:08:10.655-03:00",
+            "rating": 5,
+            "markup_created": "5 days",
+            "last_activity_content": "Etapa modificada",
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e8fb2c20e7a001c2c572b",
+                "id": "654e8fb2c20e7a001c2c572b",
+                "name": "CVC Turismo",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840a8",
+                        "id": "651c759990b7d2000e7840a8",
+                        "name": "Turismo",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.859-03:00",
+                        "updated_at": "2023-11-10T17:16:50.665-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b40ca9d7420022ce22b6",
+                "id": "6536b40ca9d7420022ce22b6",
+                "name": "Negociação",
+                "nickname": "N",
+                "created_at": "2023-10-23T14:57:32.553-03:00",
+                "updated_at": "2023-10-26T13:57:24.803-03:00"
+            },
+            "contacts": [
+                {
+                    "name": "Lucas Yudy",
+                    "title": "Compras",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "lucasmiyashiro@cvccorp.com.br"
+                        }
+                    ],
+                    "phones": [
+                        {
+                            "phone": "11 94268-4743",
+                            "type": "work"
+                        }
+                    ]
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "6565206cce2ddc000d539fe5",
+                    "id": "6565206cce2ddc000d539fe5",
+                    "product_id": "6564e5708c026d000d5fce6a",
+                    "name": "Manutenção de Licenças",
+                    "description": "Manutenção referente ao suporte técnico quando o cliente compra as licenças",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-27T20:04:12.946-03:00",
+                    "updated_at": "2023-11-27T20:08:10.647-03:00",
+                    "price": 1238.96,
+                    "amount": 600,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 743376.0
+                },
+                {
+                    "_id": "656520d1844eb100107f7a5a",
+                    "id": "656520d1844eb100107f7a5a",
+                    "product_id": "6564e590d49a4600117432e2",
+                    "name": "Suporte 24X7",
+                    "description": "Suporte 24X7 adicional ao plano de suporte",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-27T20:05:53.843-03:00",
+                    "updated_at": "2023-11-27T20:05:53.843-03:00",
+                    "price": 334045.5,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 334045.5
+                }
+            ]
+        },
+        {
+            "_id": "6564d57317abc30018dfe7f6",
+            "id": "6564d57317abc30018dfe7f6",
+            "name": "Alerta Categoria de Cliente",
+            "amount_montly": 0.0,
+            "amount_unique": 36000.0,
+            "amount_total": 36000.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-28T08:13:57.761-03:00",
+            "interactions": 3,
+            "markup_last_activities": "5 days",
+            "created_at": "2023-11-27T14:44:20.040-03:00",
+            "updated_at": "2023-11-28T08:13:57.761-03:00",
+            "rating": 1,
+            "markup_created": "5 days",
+            "last_activity_content": "Tarefa finalizada",
+            "user_changed": true,
+            "hold": null,
+            "win": true,
+            "closed_at": "2023-11-27T14:48:10.221-03:00",
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "6564d108e481b700200b50aa",
+                "id": "6564d108e481b700200b50aa",
+                "name": "Ticket",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "65396df584f8a500206874c0",
+                    "id": "65396df584f8a500206874c0",
+                    "name": "Hélio Mendonça",
+                    "email": "helio.mendonca@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840a7",
+                        "id": "651c759990b7d2000e7840a7",
+                        "name": "Serviços",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.843-03:00",
+                        "updated_at": "2023-11-27T14:25:29.123-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "65396df584f8a500206874c0",
+                "id": "65396df584f8a500206874c0",
+                "name": "Hélio Mendonça",
+                "nickname": "HM",
+                "email": "helio.mendonca@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b41af76418000f2627ea",
+                "id": "6536b41af76418000f2627ea",
+                "name": "Aguardando Assinatura Contrato",
+                "nickname": "AAC",
+                "created_at": "2023-10-23T14:57:46.258-03:00",
+                "updated_at": "2023-10-26T13:57:21.374-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840cb",
+                "id": "651c759a90b7d2000e7840cb",
+                "name": "Cliente Ativo",
+                "created_at": "2023-10-03T17:12:10.276-03:00",
+                "updated_at": "2023-10-03T17:12:10.276-03:00"
+            },
+            "contacts": [
+                {
+                    "name": "Cirlene Delanhese",
+                    "title": null,
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "cirlene.delanhese@edenred.com"
+                        }
+                    ],
+                    "phones": []
+                },
+                {
+                    "name": "Diego Manzini Honda",
+                    "title": "Supervisor CallCenter",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "diego.honda@edenred.com"
+                        }
+                    ],
+                    "phones": [
+                        {
+                            "phone": "+55 11 96320 4454",
+                            "type": "work"
+                        }
+                    ]
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "6564d643c6c89c0020fce316",
+                    "id": "6564d643c6c89c0020fce316",
+                    "product_id": "654d1443e4681600205b1f6a",
+                    "name": "Customização",
+                    "description": "Desenvolvimentos novos tais como alterações no produto, e integrações.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-27T14:47:47.544-03:00",
+                    "updated_at": "2023-11-27T14:47:47.544-03:00",
+                    "price": 36000.0,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 36000.0
+                }
+            ]
+        },
+        {
+            "_id": "6564d2d91a8cef000d10b394",
+            "id": "6564d2d91a8cef000d10b394",
+            "name": "Desenvolvimento Relatório SLA e E-mail",
+            "amount_montly": 0.0,
+            "amount_unique": 3850.0,
+            "amount_total": 3850.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-28T08:13:57.614-03:00",
+            "interactions": 8,
+            "markup_last_activities": "5 days",
+            "created_at": "2023-11-27T14:33:13.675-03:00",
+            "updated_at": "2023-11-28T08:13:57.614-03:00",
+            "rating": 1,
+            "markup_created": "5 days",
+            "last_activity_content": "Tarefa finalizada",
+            "user_changed": true,
+            "hold": null,
+            "win": true,
+            "closed_at": "2023-11-27T14:36:14.000-03:00",
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "6564d108e481b700200b50aa",
+                "id": "6564d108e481b700200b50aa",
+                "name": "Ticket",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "65396df584f8a500206874c0",
+                    "id": "65396df584f8a500206874c0",
+                    "name": "Hélio Mendonça",
+                    "email": "helio.mendonca@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840a7",
+                        "id": "651c759990b7d2000e7840a7",
+                        "name": "Serviços",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.843-03:00",
+                        "updated_at": "2023-11-27T14:25:29.123-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "65396df584f8a500206874c0",
+                "id": "65396df584f8a500206874c0",
+                "name": "Hélio Mendonça",
+                "nickname": "HM",
+                "email": "helio.mendonca@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b41af76418000f2627ea",
+                "id": "6536b41af76418000f2627ea",
+                "name": "Aguardando Assinatura Contrato",
+                "nickname": "AAC",
+                "created_at": "2023-10-23T14:57:46.258-03:00",
+                "updated_at": "2023-10-26T13:57:21.374-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840cb",
+                "id": "651c759a90b7d2000e7840cb",
+                "name": "Cliente Ativo",
+                "created_at": "2023-10-03T17:12:10.276-03:00",
+                "updated_at": "2023-10-03T17:12:10.276-03:00"
+            },
+            "contacts": [
+                {
+                    "name": "Cirlene Delanhese",
+                    "title": null,
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "cirlene.delanhese@edenred.com"
+                        }
+                    ],
+                    "phones": []
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "6564d332de202300138b8916",
+                    "id": "6564d332de202300138b8916",
+                    "product_id": "654d1443e4681600205b1f6a",
+                    "name": "Customização",
+                    "description": "Desenvolvimentos novos tais como alterações no produto, e integrações.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-27T14:34:42.599-03:00",
+                    "updated_at": "2023-11-27T14:34:42.599-03:00",
+                    "price": 3850.0,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 3850.0
+                }
+            ]
+        },
+        {
+            "_id": "655cec37342be7001316d4dd",
+            "id": "655cec37342be7001316d4dd",
+            "name": "Pergunta tipo cartão",
+            "amount_montly": 0.0,
+            "amount_unique": 57000.0,
+            "amount_total": 57000.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-27T15:30:00.606-03:00",
+            "interactions": 1,
+            "markup_last_activities": "5 days",
+            "created_at": "2023-11-21T14:43:19.408-03:00",
+            "updated_at": "2023-11-27T15:30:00.606-03:00",
+            "rating": 1,
+            "markup_created": "12 days",
+            "last_activity_content": "Etapa modificada",
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e8fb2c20e7a001c2c572b",
+                "id": "654e8fb2c20e7a001c2c572b",
+                "name": "CVC Turismo",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840a8",
+                        "id": "651c759990b7d2000e7840a8",
+                        "name": "Turismo",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.859-03:00",
+                        "updated_at": "2023-11-10T17:16:50.665-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b40ca9d7420022ce22b6",
+                "id": "6536b40ca9d7420022ce22b6",
+                "name": "Negociação",
+                "nickname": "N",
+                "created_at": "2023-10-23T14:57:32.553-03:00",
+                "updated_at": "2023-10-26T13:57:24.803-03:00"
+            },
+            "contacts": [
+                {
+                    "name": "Bruna Pacheco",
+                    "title": "Desenvolvimento TI - Pós-Vendas",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "brunag@orbium.com.br"
+                        }
+                    ],
+                    "phones": []
+                },
+                {
+                    "name": "katia Yamamoto",
+                    "title": null,
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "katiayamamoto@cvccorp.com.br"
+                        }
+                    ],
+                    "phones": []
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "655cec641fde1c0011e8d423",
+                    "id": "655cec641fde1c0011e8d423",
+                    "product_id": "654d1443e4681600205b1f6a",
+                    "name": "Customização",
+                    "description": "Desenvolvimentos novos tais como alterações no produto, e integrações.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-21T14:44:04.729-03:00",
+                    "updated_at": "2023-11-21T16:04:17.604-03:00",
+                    "price": 57000.0,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 57000.0
+                }
+            ]
+        },
+        {
+            "_id": "655cebaf43324b0016b12940",
+            "id": "655cebaf43324b0016b12940",
+            "name": "Trava de dados sensíveis",
+            "amount_montly": 0.0,
+            "amount_unique": 22000.0,
+            "amount_total": 22000.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-27T15:30:06.016-03:00",
+            "interactions": 3,
+            "markup_last_activities": "5 days",
+            "created_at": "2023-11-21T14:41:03.802-03:00",
+            "updated_at": "2023-11-27T15:30:06.016-03:00",
+            "rating": 1,
+            "markup_created": "12 days",
+            "last_activity_content": "Etapa modificada",
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e8fb2c20e7a001c2c572b",
+                "id": "654e8fb2c20e7a001c2c572b",
+                "name": "CVC Turismo",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840a8",
+                        "id": "651c759990b7d2000e7840a8",
+                        "name": "Turismo",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.859-03:00",
+                        "updated_at": "2023-11-10T17:16:50.665-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b40ca9d7420022ce22b6",
+                "id": "6536b40ca9d7420022ce22b6",
+                "name": "Negociação",
+                "nickname": "N",
+                "created_at": "2023-10-23T14:57:32.553-03:00",
+                "updated_at": "2023-10-26T13:57:24.803-03:00"
+            },
+            "contacts": [
+                {
+                    "name": "Bruna Pacheco",
+                    "title": "Desenvolvimento TI - Pós-Vendas",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "brunag@orbium.com.br"
+                        }
+                    ],
+                    "phones": []
+                },
+                {
+                    "name": "katia Yamamoto",
+                    "title": null,
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "katiayamamoto@cvccorp.com.br"
+                        }
+                    ],
+                    "phones": []
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "655cebe3f6bbf5001690b8c7",
+                    "id": "655cebe3f6bbf5001690b8c7",
+                    "product_id": "654d1443e4681600205b1f6a",
+                    "name": "Customização",
+                    "description": "Desenvolvimentos novos tais como alterações no produto, e integrações.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-21T14:41:55.995-03:00",
+                    "updated_at": "2023-11-21T15:56:18.148-03:00",
+                    "price": 22000.0,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 22000.0
+                }
+            ]
+        },
+        {
+            "_id": "655ceae8ab3e6a00206a5d42",
+            "id": "655ceae8ab3e6a00206a5d42",
+            "name": "Automação de dados Sensíveis",
+            "amount_montly": 0.0,
+            "amount_unique": 12000.0,
+            "amount_total": 12000.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-27T15:30:05.389-03:00",
+            "interactions": 1,
+            "markup_last_activities": "5 days",
+            "created_at": "2023-11-21T14:37:44.692-03:00",
+            "updated_at": "2023-11-27T15:30:05.389-03:00",
+            "rating": 1,
+            "markup_created": "12 days",
+            "last_activity_content": "Etapa modificada",
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e8fb2c20e7a001c2c572b",
+                "id": "654e8fb2c20e7a001c2c572b",
+                "name": "CVC Turismo",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840a8",
+                        "id": "651c759990b7d2000e7840a8",
+                        "name": "Turismo",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.859-03:00",
+                        "updated_at": "2023-11-10T17:16:50.665-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b40ca9d7420022ce22b6",
+                "id": "6536b40ca9d7420022ce22b6",
+                "name": "Negociação",
+                "nickname": "N",
+                "created_at": "2023-10-23T14:57:32.553-03:00",
+                "updated_at": "2023-10-26T13:57:24.803-03:00"
+            },
+            "contacts": [
+                {
+                    "name": "Bruna Pacheco",
+                    "title": "Desenvolvimento TI - Pós-Vendas",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "brunag@orbium.com.br"
+                        }
+                    ],
+                    "phones": []
+                },
+                {
+                    "name": "katia Yamamoto",
+                    "title": null,
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "katiayamamoto@cvccorp.com.br"
+                        }
+                    ],
+                    "phones": []
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "655cfbaa33d98f0013585b82",
+                    "id": "655cfbaa33d98f0013585b82",
+                    "product_id": "654d1443e4681600205b1f6a",
+                    "name": "Customização",
+                    "description": "Desenvolvimentos novos tais como alterações no produto, e integrações.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-21T15:49:14.824-03:00",
+                    "updated_at": "2023-11-21T15:49:14.824-03:00",
+                    "price": 12000.0,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 12000.0
+                }
+            ]
+        },
+        {
+            "_id": "655cb963e5f35a000f6ad982",
+            "id": "655cb963e5f35a000f6ad982",
+            "name": "Renovação anual - Licenças",
+            "amount_montly": 0.0,
+            "amount_unique": 107999.64,
+            "amount_total": 107999.64,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": null,
+            "interactions": 0,
+            "markup_last_activities": null,
+            "created_at": "2023-11-21T11:06:27.973-03:00",
+            "updated_at": "2023-11-21T11:17:20.229-03:00",
+            "rating": 1,
+            "markup_created": "12 days",
+            "last_activity_content": null,
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "65538d1d2b67f9001559058d",
+                "id": "65538d1d2b67f9001559058d",
+                "name": "Livro Fácil",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840af",
+                        "id": "651c759990b7d2000e7840af",
+                        "name": "Eventos e Entretenimento",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.927-03:00",
+                        "updated_at": "2023-11-14T12:07:09.606-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b3cf9aa4d1001ab820e3",
+                "id": "6536b3cf9aa4d1001ab820e3",
+                "name": "Apresentação da Proposta",
+                "nickname": "ADP",
+                "created_at": "2023-10-23T14:56:31.205-03:00",
+                "updated_at": "2023-10-26T13:57:29.645-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840cb",
+                "id": "651c759a90b7d2000e7840cb",
+                "name": "Cliente Ativo",
+                "created_at": "2023-10-03T17:12:10.276-03:00",
+                "updated_at": "2023-10-03T17:12:10.276-03:00"
+            },
+            "contacts": [
+                {
+                    "name": "Grace",
+                    "title": "Gerente de atendimento",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "grace@somoseducacao.com.br"
+                        }
+                    ],
+                    "phones": [
+                        {
+                            "phone": "(11) 4383-8900",
+                            "type": "work"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gisele  Alves",
+                    "title": null,
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "gisele.alves@somoseducacao.com.br"
+                        }
+                    ],
+                    "phones": []
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "655cb9d406701d0017394308",
+                    "id": "655cb9d406701d0017394308",
+                    "product_id": "654d13f05d4f15001adedeb7",
+                    "name": "Orbium CRM - Licenças Nominais",
+                    "description": "Licenças por usuário nominal. Mais indicadas quando a operação trabalha em um único turno. Supervisor e gestor também contabilizam licenças.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-21T11:08:20.196-03:00",
+                    "updated_at": "2023-11-21T11:16:01.507-03:00",
+                    "price": 428.57,
+                    "amount": 252,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 107999.64
+                }
+            ]
+        },
+        {
+            "_id": "65578aa390ac5f00148dbbf9",
+            "id": "65578aa390ac5f00148dbbf9",
+            "name": "LEROY MERLIN - Orbium CX",
+            "amount_montly": 0.0,
+            "amount_unique": 0.0,
+            "amount_total": 0.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-17T12:52:06.953-03:00",
+            "interactions": 2,
+            "markup_last_activities": "20 days",
+            "created_at": "2023-11-17T12:45:39.486-03:00",
+            "updated_at": "2023-11-17T12:52:37.023-03:00",
+            "rating": 1,
+            "markup_created": "20 days",
+            "last_activity_content": "Status modificado",
+            "user_changed": false,
+            "hold": true,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "655783ab0608e500226e138c",
+                "id": "655783ab0608e500226e138c",
+                "name": "Leroy Merlin Companhia Brasileira de Bricolagem",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "6539692f89c36f000fa68cf7",
+                    "id": "6539692f89c36f000fa68cf7",
+                    "name": "Mário Gil ",
+                    "email": "mario.sampaio@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759a90b7d2000e7840b8",
+                        "id": "651c759a90b7d2000e7840b8",
+                        "name": "Distribuidoras / Atacadistas",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:10.004-03:00",
+                        "updated_at": "2023-11-21T14:59:39.333-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "6539692f89c36f000fa68cf7",
+                "id": "6539692f89c36f000fa68cf7",
+                "name": "Mário Gil ",
+                "nickname": "MG",
+                "email": "mario.sampaio@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b3658f341b000fce1355",
+                "id": "6536b3658f341b000fce1355",
+                "name": "Apresentação / Reunião",
+                "nickname": "A/R",
+                "created_at": "2023-10-23T14:54:45.155-03:00",
+                "updated_at": "2023-10-23T14:55:20.138-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c8",
+                "id": "651c759a90b7d2000e7840c8",
+                "name": "E-mail Marketing",
+                "created_at": "2023-10-03T17:12:10.215-03:00",
+                "updated_at": "2023-10-03T17:12:10.215-03:00"
+            },
+            "campaign": {
+                "_id": "651c7575ba3ed8001684faad",
+                "id": "651c7575ba3ed8001684faad",
+                "name": "Sem Campanha",
+                "created_at": "2023-10-03T17:11:33.261-03:00",
+                "updated_at": "2023-10-03T17:11:33.261-03:00"
+            },
+            "next_task": {
+                "_id": "65578bdbf595d4000fd7372f",
+                "id": "65578bdbf595d4000fd7372f",
+                "date": "2024-03-04T09:00:00.000-03:00",
+                "subject": "LEROY MERLIN - Fazer novo contato para retomar negociaçao",
+                "type": "task",
+                "hour": "09:00"
+            },
+            "contacts": [
+                {
+                    "name": "Karla Cristiane dos Santos",
+                    "title": "Diretora de CX",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "kcristiane@leroumerlin.com.br"
+                        }
+                    ],
+                    "phones": []
+                },
+                {
+                    "name": "Sarah Yukie Asano",
+                    "title": "Supervisora de Eficiência Operacional",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "sasano@leroymerlin.com.br"
+                        }
+                    ],
+                    "phones": []
+                },
+                {
+                    "name": "Giovani Machado",
+                    "title": "Supervisor de Projetos e Processos",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "giomachado@leroymerlin.com.br"
+                        }
+                    ],
+                    "phones": []
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": []
+        },
+        {
+            "_id": "65538e301b4d8300176bffd1",
+            "id": "65538e301b4d8300176bffd1",
+            "name": "Licenças Sazonais",
+            "amount_montly": 0.0,
+            "amount_unique": 19804.8,
+            "amount_total": 19804.8,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-27T15:01:37.634-03:00",
+            "interactions": 6,
+            "markup_last_activities": "5 days",
+            "created_at": "2023-11-14T12:11:44.963-03:00",
+            "updated_at": "2023-11-27T15:01:37.634-03:00",
+            "rating": 5,
+            "markup_created": "20 days",
+            "last_activity_content": "Status modificado",
+            "user_changed": true,
+            "hold": null,
+            "win": true,
+            "closed_at": "2023-11-27T15:01:37.549-03:00",
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "65538d1d2b67f9001559058d",
+                "id": "65538d1d2b67f9001559058d",
+                "name": "Livro Fácil",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840af",
+                        "id": "651c759990b7d2000e7840af",
+                        "name": "Eventos e Entretenimento",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.927-03:00",
+                        "updated_at": "2023-11-14T12:07:09.606-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b41af76418000f2627ea",
+                "id": "6536b41af76418000f2627ea",
+                "name": "Aguardando Assinatura Contrato",
+                "nickname": "AAC",
+                "created_at": "2023-10-23T14:57:46.258-03:00",
+                "updated_at": "2023-10-26T13:57:21.374-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840cb",
+                "id": "651c759a90b7d2000e7840cb",
+                "name": "Cliente Ativo",
+                "created_at": "2023-10-03T17:12:10.276-03:00",
+                "updated_at": "2023-10-03T17:12:10.276-03:00"
+            },
+            "contacts": [],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "655cb495425efd0011c3879f",
+                    "id": "655cb495425efd0011c3879f",
+                    "product_id": "6553b462ad0061000fc1e538",
+                    "name": "Licenças Sazonais",
+                    "description": "Licenças utilizadas por um período determinado.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-21T10:45:57.495-03:00",
+                    "updated_at": "2023-11-27T14:58:46.649-03:00",
+                    "price": 1237.8,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 1237.8
+                },
+                {
+                    "_id": "655cb5a336460c000d02ad81",
+                    "id": "655cb5a336460c000d02ad81",
+                    "product_id": "6553b462ad0061000fc1e538",
+                    "name": "Licenças Sazonais",
+                    "description": "Licenças utilizadas por um período determinado.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-21T10:50:27.246-03:00",
+                    "updated_at": "2023-11-27T14:59:21.261-03:00",
+                    "price": 515.75,
+                    "amount": 18,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 9283.5
+                },
+                {
+                    "_id": "655cb637a9b410001013df75",
+                    "id": "655cb637a9b410001013df75",
+                    "product_id": "6553b462ad0061000fc1e538",
+                    "name": "Licenças Sazonais",
+                    "description": "Licenças utilizadas por um período determinado.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-21T10:52:55.633-03:00",
+                    "updated_at": "2023-11-27T14:59:45.430-03:00",
+                    "price": 515.75,
+                    "amount": 18,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 9283.5
+                }
+            ]
+        },
+        {
+            "_id": "654e9920158ded000d640428",
+            "id": "654e9920158ded000d640428",
+            "name": "CRM - ORBIUM",
+            "amount_montly": 0.0,
+            "amount_unique": 0.0,
+            "amount_total": 0.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": null,
+            "interactions": 0,
+            "markup_last_activities": null,
+            "created_at": "2023-11-10T17:57:04.069-03:00",
+            "updated_at": "2023-11-10T17:57:04.069-03:00",
+            "rating": 1,
+            "markup_created": "30 days",
+            "last_activity_content": null,
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e93b7e95eb6001600676b",
+                "id": "654e93b7e95eb6001600676b",
+                "name": "Lojas Marisa",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "654a3bb7852b020014acf154",
+                    "id": "654a3bb7852b020014acf154",
+                    "name": "Silvane",
+                    "email": "silvane.britto@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759a90b7d2000e7840b8",
+                        "id": "651c759a90b7d2000e7840b8",
+                        "name": "Distribuidoras / Atacadistas",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:10.004-03:00",
+                        "updated_at": "2023-11-21T14:59:39.333-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "654a3bb7852b020014acf154",
+                "id": "654a3bb7852b020014acf154",
+                "name": "Silvane",
+                "nickname": "SI",
+                "email": "silvane.britto@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "65397b70ec399d000dd496a1",
+                "id": "65397b70ec399d000dd496a1",
+                "name": "Recuperação",
+                "nickname": "R",
+                "created_at": "2023-10-25T17:32:48.950-03:00",
+                "updated_at": "2023-10-25T17:34:32.852-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c3",
+                "id": "651c759a90b7d2000e7840c3",
+                "name": "Contato por E-mail",
+                "created_at": "2023-10-03T17:12:10.141-03:00",
+                "updated_at": "2023-10-03T17:12:10.141-03:00"
+            },
+            "contacts": [],
+            "deal_custom_fields": [],
+            "deal_products": []
+        },
+        {
+            "_id": "654e97f61fe92e000de6b481",
+            "id": "654e97f61fe92e000de6b481",
+            "name": "CRM - ORBIUM",
+            "amount_montly": 0.0,
+            "amount_unique": 0.0,
+            "amount_total": 0.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": null,
+            "interactions": 0,
+            "markup_last_activities": null,
+            "created_at": "2023-11-10T17:52:06.496-03:00",
+            "updated_at": "2023-11-10T17:55:48.680-03:00",
+            "rating": 1,
+            "markup_created": "30 days",
+            "last_activity_content": null,
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e94619876820021fea0a5",
+                "id": "654e94619876820021fea0a5",
+                "name": "Claro -Embratel",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "654a3bb7852b020014acf154",
+                    "id": "654a3bb7852b020014acf154",
+                    "name": "Silvane",
+                    "email": "silvane.britto@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759a90b7d2000e7840b8",
+                        "id": "651c759a90b7d2000e7840b8",
+                        "name": "Distribuidoras / Atacadistas",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:10.004-03:00",
+                        "updated_at": "2023-11-21T14:59:39.333-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "654a3bb7852b020014acf154",
+                "id": "654a3bb7852b020014acf154",
+                "name": "Silvane",
+                "nickname": "SI",
+                "email": "silvane.britto@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "65397b70ec399d000dd496a1",
+                "id": "65397b70ec399d000dd496a1",
+                "name": "Recuperação",
+                "nickname": "R",
+                "created_at": "2023-10-25T17:32:48.950-03:00",
+                "updated_at": "2023-10-25T17:34:32.852-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c3",
+                "id": "651c759a90b7d2000e7840c3",
+                "name": "Contato por E-mail",
+                "created_at": "2023-10-03T17:12:10.141-03:00",
+                "updated_at": "2023-10-03T17:12:10.141-03:00"
+            },
+            "contacts": [],
+            "deal_custom_fields": [],
+            "deal_products": []
+        },
+        {
+            "_id": "654e973f459319000f9d0a99",
+            "id": "654e973f459319000f9d0a99",
+            "name": "CRM - ORBIUM",
+            "amount_montly": 0.0,
+            "amount_unique": 0.0,
+            "amount_total": 0.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": null,
+            "interactions": 0,
+            "markup_last_activities": null,
+            "created_at": "2023-11-10T17:49:04.041-03:00",
+            "updated_at": "2023-11-10T17:49:04.041-03:00",
+            "rating": 1,
+            "markup_created": "30 days",
+            "last_activity_content": null,
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e942813e43c0022ecf8c4",
+                "id": "654e942813e43c0022ecf8c4",
+                "name": "Via Varejo",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "654a3bb7852b020014acf154",
+                    "id": "654a3bb7852b020014acf154",
+                    "name": "Silvane",
+                    "email": "silvane.britto@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759a90b7d2000e7840b8",
+                        "id": "651c759a90b7d2000e7840b8",
+                        "name": "Distribuidoras / Atacadistas",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:10.004-03:00",
+                        "updated_at": "2023-11-21T14:59:39.333-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "654a3bb7852b020014acf154",
+                "id": "654a3bb7852b020014acf154",
+                "name": "Silvane",
+                "nickname": "SI",
+                "email": "silvane.britto@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "65397b70ec399d000dd496a2",
+                "id": "65397b70ec399d000dd496a2",
+                "name": "Reaquecimento",
+                "nickname": "R",
+                "created_at": "2023-10-25T17:32:48.969-03:00",
+                "updated_at": "2023-10-25T17:34:38.729-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c3",
+                "id": "651c759a90b7d2000e7840c3",
+                "name": "Contato por E-mail",
+                "created_at": "2023-10-03T17:12:10.141-03:00",
+                "updated_at": "2023-10-03T17:12:10.141-03:00"
+            },
+            "contacts": [],
+            "deal_custom_fields": [],
+            "deal_products": []
+        },
+        {
+            "_id": "654e96824ef97c000df2db35",
+            "id": "654e96824ef97c000df2db35",
+            "name": "CRM ORBIUM",
+            "amount_montly": 0.0,
+            "amount_unique": 0.0,
+            "amount_total": 0.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-10T17:55:17.611-03:00",
+            "interactions": 1,
+            "markup_last_activities": "30 days",
+            "created_at": "2023-11-10T17:45:54.616-03:00",
+            "updated_at": "2023-11-10T17:55:26.009-03:00",
+            "rating": 1,
+            "markup_created": "30 days",
+            "last_activity_content": "Etapa modificada",
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e940e34c39a001efde84f",
+                "id": "654e940e34c39a001efde84f",
+                "name": "Anhaguera",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "654a3bb7852b020014acf154",
+                    "id": "654a3bb7852b020014acf154",
+                    "name": "Silvane",
+                    "email": "silvane.britto@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840af",
+                        "id": "651c759990b7d2000e7840af",
+                        "name": "Eventos e Entretenimento",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.927-03:00",
+                        "updated_at": "2023-11-14T12:07:09.606-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "654a3bb7852b020014acf154",
+                "id": "654a3bb7852b020014acf154",
+                "name": "Silvane",
+                "nickname": "SI",
+                "email": "silvane.britto@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "65397b70ec399d000dd496a1",
+                "id": "65397b70ec399d000dd496a1",
+                "name": "Recuperação",
+                "nickname": "R",
+                "created_at": "2023-10-25T17:32:48.950-03:00",
+                "updated_at": "2023-10-25T17:34:32.852-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c3",
+                "id": "651c759a90b7d2000e7840c3",
+                "name": "Contato por E-mail",
+                "created_at": "2023-10-03T17:12:10.141-03:00",
+                "updated_at": "2023-10-03T17:12:10.141-03:00"
+            },
+            "next_task": {
+                "_id": "654e98bb86600c0001d91c57",
+                "id": "654e98bb86600c0001d91c57",
+                "date": "2023-11-10T17:56:00.000-03:00",
+                "subject": "Fazer Ligação - Dia 1",
+                "type": "call",
+                "hour": "17:56"
+            },
+            "contacts": [],
+            "deal_custom_fields": [],
+            "deal_products": []
+        },
+        {
+            "_id": "654e924b34c39a000dfddeae",
+            "id": "654e924b34c39a000dfddeae",
+            "name": "SDTTI- 285120 - Form provider",
+            "amount_montly": 0.0,
+            "amount_unique": 8500.0,
+            "amount_total": 8500.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-17T15:22:55.464-03:00",
+            "interactions": 3,
+            "markup_last_activities": "20 days",
+            "created_at": "2023-11-10T17:27:55.694-03:00",
+            "updated_at": "2023-11-17T15:22:55.464-03:00",
+            "rating": 4,
+            "markup_created": "30 days",
+            "last_activity_content": "Etapa modificada",
+            "user_changed": true,
+            "hold": null,
+            "win": true,
+            "closed_at": "2023-11-17T15:18:52.689-03:00",
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e8fb2c20e7a001c2c572b",
+                "id": "654e8fb2c20e7a001c2c572b",
+                "name": "CVC Turismo",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840a8",
+                        "id": "651c759990b7d2000e7840a8",
+                        "name": "Turismo",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.859-03:00",
+                        "updated_at": "2023-11-10T17:16:50.665-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b41af76418000f2627ea",
+                "id": "6536b41af76418000f2627ea",
+                "name": "Aguardando Assinatura Contrato",
+                "nickname": "AAC",
+                "created_at": "2023-10-23T14:57:46.258-03:00",
+                "updated_at": "2023-10-26T13:57:21.374-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840cb",
+                "id": "651c759a90b7d2000e7840cb",
+                "name": "Cliente Ativo",
+                "created_at": "2023-10-03T17:12:10.276-03:00",
+                "updated_at": "2023-10-03T17:12:10.276-03:00"
+            },
+            "contacts": [],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "654e92acbf3593000fed0b87",
+                    "id": "654e92acbf3593000fed0b87",
+                    "product_id": "654d1443e4681600205b1f6a",
+                    "name": "Customização",
+                    "description": "Desenvolvimentos novos tais como alterações no produto, e integrações.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-10T17:29:32.987-03:00",
+                    "updated_at": "2023-11-10T17:29:32.987-03:00",
+                    "price": 8500.0,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 8500.0
+                }
+            ]
+        },
+        {
+            "_id": "654e74495f408f00114a8845",
+            "id": "654e74495f408f00114a8845",
+            "name": "Orbium",
+            "amount_montly": 0.0,
+            "amount_unique": 0.0,
+            "amount_total": 0.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-10T15:21:06.349-03:00",
+            "interactions": 1,
+            "markup_last_activities": "30 days",
+            "created_at": "2023-11-10T15:19:53.194-03:00",
+            "updated_at": "2023-11-10T15:21:13.599-03:00",
+            "rating": 1,
+            "markup_created": "30 days",
+            "last_activity_content": "Etapa modificada",
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654a7a7f3890dd002034903f",
+                "id": "654a7a7f3890dd002034903f",
+                "name": "Zarpo",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840a8",
+                        "id": "651c759990b7d2000e7840a8",
+                        "name": "Turismo",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.859-03:00",
+                        "updated_at": "2023-11-10T17:16:50.665-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "653a9a2dcb4186001fc00a93",
+                "id": "653a9a2dcb4186001fc00a93",
+                "name": "Reagendamento",
+                "nickname": "R",
+                "created_at": "2023-10-26T13:56:13.146-03:00",
+                "updated_at": "2023-10-26T13:56:13.146-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c7",
+                "id": "651c759a90b7d2000e7840c7",
+                "name": "Redes Sociais",
+                "created_at": "2023-10-03T17:12:10.204-03:00",
+                "updated_at": "2023-10-03T17:12:10.204-03:00"
+            },
+            "next_task": {
+                "_id": "654e7499aded9f00016b3f6d",
+                "id": "654e7499aded9f00016b3f6d",
+                "date": "2023-11-10T15:22:00.000-03:00",
+                "subject": "Enviar Email - Dia 1",
+                "type": "email",
+                "hour": "15:22"
+            },
+            "contacts": [],
+            "deal_custom_fields": [],
+            "deal_products": []
+        },
+        {
+            "_id": "654e730387316c00152616ce",
+            "id": "654e730387316c00152616ce",
+            "name": "Overview",
+            "amount_montly": 0.0,
+            "amount_unique": 0.0,
+            "amount_total": 0.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-30T15:46:52.876-03:00",
+            "interactions": 2,
+            "markup_last_activities": "1 day",
+            "created_at": "2023-11-10T15:14:27.068-03:00",
+            "updated_at": "2023-11-30T15:46:52.876-03:00",
+            "rating": 1,
+            "markup_created": "30 days",
+            "last_activity_content": "Status modificado",
+            "user_changed": true,
+            "hold": null,
+            "win": false,
+            "closed_at": "2023-11-30T15:46:52.774-03:00",
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e50791fe92e000de647e8",
+                "id": "654e50791fe92e000de647e8",
+                "name": "BoardAcademy",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840af",
+                        "id": "651c759990b7d2000e7840af",
+                        "name": "Eventos e Entretenimento",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.927-03:00",
+                        "updated_at": "2023-11-14T12:07:09.606-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "651c759a90b7d2000e7840ce",
+                "id": "651c759a90b7d2000e7840ce",
+                "name": "Identificação do Interesse",
+                "nickname": "IDI",
+                "created_at": "2023-10-03T17:12:10.323-03:00",
+                "updated_at": "2023-10-23T14:58:24.819-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c7",
+                "id": "651c759a90b7d2000e7840c7",
+                "name": "Redes Sociais",
+                "created_at": "2023-10-03T17:12:10.204-03:00",
+                "updated_at": "2023-10-03T17:12:10.204-03:00"
+            },
+            "deal_lost_reason": {
+                "_id": "651c759990b7d2000e7840a2",
+                "id": "651c759990b7d2000e7840a2",
+                "name": "Cliente optou por não realizar o projeto",
+                "created_at": "2023-10-03T17:12:09.797-03:00",
+                "updated_at": "2023-10-03T17:12:09.797-03:00"
+            },
+            "contacts": [],
+            "deal_custom_fields": [
+                {
+                    "value": "30/11/2023",
+                    "created_at": "2023-11-30T15:46:31.211-03:00",
+                    "updated_at": "2023-11-30T15:46:31.211-03:00",
+                    "custom_field_id": "6564f20ce68511001a2a0590",
+                    "custom_field": {
+                        "_id": "6564f20ce68511001a2a0590",
+                        "id": "6564f20ce68511001a2a0590",
+                        "for": "deal",
+                        "label": "Início faturamento",
+                        "order": 2,
+                        "allow_new": false,
+                        "required": false,
+                        "type": "date",
+                        "unique": false,
+                        "visible": true,
+                        "created_at": "2023-11-27T16:46:20.087-03:00",
+                        "updated_at": "2023-11-30T15:47:13.804-03:00"
+                    }
+                },
+                {
+                    "value": "30/11/2023",
+                    "created_at": "2023-11-30T15:46:32.440-03:00",
+                    "updated_at": "2023-11-30T15:46:32.440-03:00",
+                    "custom_field_id": "6564f26c4d9bbc000f1b66b7",
+                    "custom_field": {
+                        "_id": "6564f26c4d9bbc000f1b66b7",
+                        "id": "6564f26c4d9bbc000f1b66b7",
+                        "for": "deal",
+                        "label": "Final do contrato",
+                        "order": 3,
+                        "allow_new": false,
+                        "required": false,
+                        "type": "date",
+                        "unique": false,
+                        "visible": true,
+                        "created_at": "2023-11-27T16:47:56.928-03:00",
+                        "updated_at": "2023-11-30T15:47:21.145-03:00"
+                    }
+                }
+            ],
+            "deal_products": []
+        },
+        {
+            "_id": "654e679c3f35910013c9084a",
+            "id": "654e679c3f35910013c9084a",
+            "name": "Módulo campanha, e-mail-fone e whatsapp",
+            "amount_montly": 0.0,
+            "amount_unique": 0.0,
+            "amount_total": 0.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-17T15:20:51.112-03:00",
+            "interactions": 2,
+            "markup_last_activities": "20 days",
+            "created_at": "2023-11-10T14:25:48.387-03:00",
+            "updated_at": "2023-11-30T14:29:17.908-03:00",
+            "rating": 2,
+            "markup_created": "30 days",
+            "last_activity_content": "Tarefa finalizada",
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {
+                "expiration_date_time": "2023-11-22T15:20:51.752-03:00",
+                "expired": true,
+                "expired_days": 8
+            },
+            "organization": {
+                "_id": "654d16bc72109a00156d7ae4",
+                "id": "654d16bc72109a00156d7ae4",
+                "name": "AIO CORRETORA DE SEGUROS E BENEFÍCIOS",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "651c7574ba3ed8001684faa8",
+                    "id": "651c7574ba3ed8001684faa8",
+                    "name": "Adriana Nastri",
+                    "email": "adriana.nastri@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840a7",
+                        "id": "651c759990b7d2000e7840a7",
+                        "name": "Serviços",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.843-03:00",
+                        "updated_at": "2023-11-27T14:25:29.123-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "651c7574ba3ed8001684faa8",
+                "id": "651c7574ba3ed8001684faa8",
+                "name": "Adriana Nastri",
+                "nickname": "AN",
+                "email": "adriana.nastri@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "651c759a90b7d2000e7840ce",
+                "id": "651c759a90b7d2000e7840ce",
+                "name": "Identificação do Interesse",
+                "nickname": "IDI",
+                "created_at": "2023-10-03T17:12:10.323-03:00",
+                "updated_at": "2023-10-23T14:58:24.819-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c6",
+                "id": "651c759a90b7d2000e7840c6",
+                "name": "Google e Outros Buscadores",
+                "created_at": "2023-10-03T17:12:10.188-03:00",
+                "updated_at": "2023-10-03T17:12:10.188-03:00"
+            },
+            "next_task": {
+                "_id": "6568c66d376889001143f959",
+                "id": "6568c66d376889001143f959",
+                "date": "2023-12-01T15:27:00.000-03:00",
+                "subject": "Apresentação",
+                "type": "task",
+                "hour": "15:27"
+            },
+            "contacts": [],
+            "deal_custom_fields": [],
+            "deal_products": []
+        },
+        {
+            "_id": "654e618287316c000d25fa5d",
+            "id": "654e618287316c000d25fa5d",
+            "name": "ESTADÃO - Orbium CX",
+            "amount_montly": 43785.0,
+            "amount_unique": 128750.0,
+            "amount_total": 172535.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": "2023-11-10T14:00:17.322-03:00",
+            "interactions": 1,
+            "markup_last_activities": "30 days",
+            "created_at": "2023-11-10T13:59:46.323-03:00",
+            "updated_at": "2023-11-10T14:06:44.496-03:00",
+            "rating": 1,
+            "markup_created": "30 days",
+            "last_activity_content": "Etapa modificada",
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e3288b8f7f8000f119840",
+                "id": "654e3288b8f7f8000f119840",
+                "name": "S/A O ESTADO DE S.PAULO",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "6539692f89c36f000fa68cf7",
+                    "id": "6539692f89c36f000fa68cf7",
+                    "name": "Mário Gil ",
+                    "email": "mario.sampaio@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759990b7d2000e7840af",
+                        "id": "651c759990b7d2000e7840af",
+                        "name": "Eventos e Entretenimento",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:09.927-03:00",
+                        "updated_at": "2023-11-14T12:07:09.606-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "6539692f89c36f000fa68cf7",
+                "id": "6539692f89c36f000fa68cf7",
+                "name": "Mário Gil ",
+                "nickname": "MG",
+                "email": "mario.sampaio@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b40ca9d7420022ce22b6",
+                "id": "6536b40ca9d7420022ce22b6",
+                "name": "Negociação",
+                "nickname": "N",
+                "created_at": "2023-10-23T14:57:32.553-03:00",
+                "updated_at": "2023-10-26T13:57:24.803-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c2",
+                "id": "651c759a90b7d2000e7840c2",
+                "name": "Contato por Telefone",
+                "created_at": "2023-10-03T17:12:10.131-03:00",
+                "updated_at": "2023-10-03T17:12:10.131-03:00"
+            },
+            "campaign": {
+                "_id": "651c7575ba3ed8001684faad",
+                "id": "651c7575ba3ed8001684faad",
+                "name": "Sem Campanha",
+                "created_at": "2023-10-03T17:11:33.261-03:00",
+                "updated_at": "2023-10-03T17:11:33.261-03:00"
+            },
+            "next_task": {
+                "_id": "654e618853135f00012e2a1d",
+                "id": "654e618853135f00012e2a1d",
+                "date": "2023-11-10T14:09:00.000-03:00",
+                "subject": "Fazer a distribuição dos Leads qualificados para a equipe",
+                "type": "task",
+                "hour": "14:09"
+            },
+            "contacts": [
+                {
+                    "name": "Marcelo Setsuo Bustamante",
+                    "title": "Business Insights | Estratégias Digitais",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "marcelo.setsuo@estadao.com"
+                        }
+                    ],
+                    "phones": [
+                        {
+                            "phone": "+55 (11) 3856-2413",
+                            "type": "work"
+                        },
+                        {
+                            "phone": "+55 (11) 9.9445-7257",
+                            "type": "cellphone"
+                        }
+                    ]
+                },
+                {
+                    "name": "Debora Huertas",
+                    "title": "Diretora de Gestão de Clientes",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "debora.huertas@estadao.com"
+                        }
+                    ],
+                    "phones": [
+                        {
+                            "phone": "+55 (11) 99123-8232",
+                            "type": "work"
+                        }
+                    ]
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "654e625e179874000e463801",
+                    "id": "654e625e179874000e463801",
+                    "product_id": "654d13f05d4f15001adedeb7",
+                    "name": "Orbium CRM - Licenças Nominais",
+                    "description": "Licenças por usuário nominal. Mais indicadas quando a operação trabalha em um único turno. Supervisor e gestor também contabilizam licenças.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-10T14:03:26.341-03:00",
+                    "updated_at": "2023-11-10T14:06:44.488-03:00",
+                    "price": 315.0,
+                    "amount": 139,
+                    "recurrence": "monthly",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 43785.0
+                },
+                {
+                    "_id": "654e62ecb8f7f8000f11dc35",
+                    "id": "654e62ecb8f7f8000f11dc35",
+                    "product_id": "654d141b17987400154535ea",
+                    "name": "Serviços Profissionais",
+                    "description": "Engloba todos os serviços de um cliente novo ou uma proposta nova.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-10T14:05:48.905-03:00",
+                    "updated_at": "2023-11-10T14:05:48.905-03:00",
+                    "price": 128750.0,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 128750.0
+                }
+            ]
+        },
+        {
+            "_id": "654e5e6334c39a0014fd8e4a",
+            "id": "654e5e6334c39a0014fd8e4a",
+            "name": "AMERICANAS - Orbium CX",
+            "amount_montly": 88920.0,
+            "amount_unique": 0.0,
+            "amount_total": 88920.0,
+            "prediction_date": null,
+            "markup": "future",
+            "last_activity_at": null,
+            "interactions": 0,
+            "markup_last_activities": null,
+            "created_at": "2023-11-10T13:46:27.165-03:00",
+            "updated_at": "2023-11-10T13:52:21.123-03:00",
+            "rating": 1,
+            "markup_created": "30 days",
+            "last_activity_content": null,
+            "user_changed": true,
+            "hold": null,
+            "win": null,
+            "closed_at": null,
+            "stop_time_limit": {},
+            "organization": {
+                "_id": "654e3566e95eb60021ffcd8e",
+                "id": "654e3566e95eb60021ffcd8e",
+                "name": "AMERICANAS S.A - EM RECUPERACAO JUDICIAL",
+                "address": null,
+                "address_latitude": null,
+                "address_longitude": null,
+                "user": {
+                    "_id": "6539692f89c36f000fa68cf7",
+                    "id": "6539692f89c36f000fa68cf7",
+                    "name": "Mário Gil ",
+                    "email": "mario.sampaio@orbium.com.br"
+                },
+                "organization_segments": [
+                    {
+                        "_id": "651c759a90b7d2000e7840b8",
+                        "id": "651c759a90b7d2000e7840b8",
+                        "name": "Distribuidoras / Atacadistas",
+                        "integration_id": null,
+                        "created_at": "2023-10-03T17:12:10.004-03:00",
+                        "updated_at": "2023-11-21T14:59:39.333-03:00"
+                    }
+                ]
+            },
+            "user": {
+                "_id": "6539692f89c36f000fa68cf7",
+                "id": "6539692f89c36f000fa68cf7",
+                "name": "Mário Gil ",
+                "nickname": "MG",
+                "email": "mario.sampaio@orbium.com.br"
+            },
+            "deal_stage": {
+                "_id": "6536b40ca9d7420022ce22b6",
+                "id": "6536b40ca9d7420022ce22b6",
+                "name": "Negociação",
+                "nickname": "N",
+                "created_at": "2023-10-23T14:57:32.553-03:00",
+                "updated_at": "2023-10-26T13:57:24.803-03:00"
+            },
+            "deal_source": {
+                "_id": "651c759a90b7d2000e7840c2",
+                "id": "651c759a90b7d2000e7840c2",
+                "name": "Contato por Telefone",
+                "created_at": "2023-10-03T17:12:10.131-03:00",
+                "updated_at": "2023-10-03T17:12:10.131-03:00"
+            },
+            "campaign": {
+                "_id": "651c7575ba3ed8001684faad",
+                "id": "651c7575ba3ed8001684faad",
+                "name": "Sem Campanha",
+                "created_at": "2023-10-03T17:11:33.261-03:00",
+                "updated_at": "2023-10-03T17:11:33.261-03:00"
+            },
+            "contacts": [
+                {
+                    "name": "Sidnei Sorban",
+                    "title": "Head de Operação de Atendimento",
+                    "notes": null,
+                    "facebook": null,
+                    "linkedin": null,
+                    "skype": null,
+                    "birthday": null,
+                    "emails": [
+                        {
+                            "email": "sidnei.sorban@americanas.io"
+                        }
+                    ],
+                    "phones": [
+                        {
+                            "phone": "+55 (11) 99850-8490",
+                            "type": "cellphone"
+                        }
+                    ]
+                }
+            ],
+            "deal_custom_fields": [],
+            "deal_products": [
+                {
+                    "_id": "654e5eea22d798000fc240af",
+                    "id": "654e5eea22d798000fc240af",
+                    "product_id": "654d141b17987400154535ea",
+                    "name": "Serviços Profissionais",
+                    "description": "Engloba todos os serviços de um cliente novo ou uma proposta nova.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-10T13:48:42.483-03:00",
+                    "updated_at": "2023-11-10T13:48:42.483-03:00",
+                    "price": 0.0,
+                    "amount": 1,
+                    "recurrence": "spare",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 0.0
+                },
+                {
+                    "_id": "654e5fb0a2afac0014bd3112",
+                    "id": "654e5fb0a2afac0014bd3112",
+                    "product_id": "654d13f05d4f15001adedeb7",
+                    "name": "Orbium CRM - Licenças Nominais",
+                    "description": "Licenças por usuário nominal. Mais indicadas quando a operação trabalha em um único turno. Supervisor e gestor também contabilizam licenças.",
+                    "base_price": 0.0,
+                    "created_at": "2023-11-10T13:52:00.059-03:00",
+                    "updated_at": "2023-11-10T13:52:21.115-03:00",
+                    "price": 88920.0,
+                    "amount": 1,
+                    "recurrence": "monthly",
+                    "discount": 0.0,
+                    "discount_type": "percent",
+                    "total": 88920.0
+                }
+            ]
+        }
+    ]
+}
