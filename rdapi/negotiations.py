@@ -82,7 +82,8 @@ class NegotiationParser:
             in_data['Produtos negociados'] = []
             for product in deal['deal_products']:
                 product_name = product.get('name')
-                in_data['Produtos negociados'].append(product_name)
+                if not product_name in in_data['Produtos negociados']:
+                    in_data['Produtos negociados'].append(product_name)
             
             data.append(in_data)
             
