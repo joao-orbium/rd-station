@@ -72,19 +72,22 @@ class NegotiationParser:
             in_data['Tipo'] = deal.get('name')
             in_data['Valor Mensal'] = deal.get('amount_montly')
             in_data['Valor Único'] = deal.get('amount_unique')
-            in_data['Projeção Anual'] = (deal.get('amount_montly', 0) * 12) + deal.get('amount_unique', 0)
+            in_data['Projeção Anual'] = (deal.get('amount_montly', 0) * 12) + deal.get('amount_unique', 0) if deal.get('amount_montly', 0) != 0 else 0
             in_data['Iniciado em'] = deal.get('created_at')
             in_data['Empresa'] = {}
             in_data['Negociante'] = deal.get('organization', {}).get('user', {}).get('name')
             in_data['Nome da empresa'] = deal.get('organization', {}).get('name')
             in_data['Segmento'] = deal.get('organization_segments', {}).get('name')
             in_data['Estágio'] = deal.get('deal_stage', {}).get('name')
-            in_data['Produto negociado'] = deal.get('deal_products', {}).get('name')
+            in_data['Produtos negociados'] = []
+            for product in deal['deal_products']:
+                product_name = product.get('name')
+                in_data['Produtos negociados'].append(product_name)
             
             data.append(in_data)
             
         return data
-            
+    
         
         
         
